@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_eUBnMHAWEe-UQMdry68-KQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_veSTwHAWEe-UQMdry68-KQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_veSTwHAWEe-UQMdry68-KQ - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
